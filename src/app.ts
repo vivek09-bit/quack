@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { Command } from "commander";
 import { GoogleGenAI, ThinkingLevel } from "@google/genai";
 import Conf from 'conf';
